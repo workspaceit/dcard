@@ -1,0 +1,11 @@
+store_id,invite_code,store_name,category_id,yelp_id,store_state,store_city,store_zip,store_country,percent_off,amount_off,on_spent,participator,lon,lat,create_date
+2,awcTVJsizt,"Montesacro Pinseria Romana Enoteca",1,montesacro-pinseria-romana-enoteca-san-francisco-4,CA,"San Francisco",94103,US,0.0000,0.0000,0.0000,0,-122.4101181,37.7815971,"2015-09-29 17:47:27"
+3,nOo7eJmMRV,"Tony's Pizza Napoletana",1,tonys-pizza-napoletana-san-francisco,CA,"San Francisco",94133,US,0.0000,0.0000,0.0000,0,-122.4089432,37.8003197,"2015-09-29 17:47:27"
+4,Mw13bcgJ8F,"Little Star Pizza",1,little-star-pizza-san-francisco,CA,"San Francisco",94117,US,0.0000,0.0000,0.0000,0,-122.43798828125,37.77753829956,"2015-09-29 17:47:27"
+5,eJSINxUoGY,"Golden Boy Pizza",1,golden-boy-pizza-san-francisco,CA,"San Francisco",94133,US,0.0000,0.0000,0.0000,0,-122.4080729,37.7997956,"2015-09-29 17:47:27"
+6,a1u9db2Wol,"Long Bridge Pizza Company",1,long-bridge-pizza-company-san-francisco,CA,"San Francisco",94107,US,0.0000,0.0000,0.0000,0,-122.3881765,37.7595199,"2015-09-29 17:47:27"
+7,z1XJwxOt4M,"Cybelle's Pizza & Ice Cream",1,cybelles-pizza-and-ice-cream-san-francisco-2,CA,"San Francisco",94109,US,0.0000,0.0000,0.0000,1,-122.4140212,37.7896824,"2015-09-29 17:47:27"
+8,25d0o3ENWY,"Goat Hill Pizza",1,goat-hill-pizza-san-francisco,CA,"San Francisco",94107,US,0.0000,0.0000,0.0000,0,-122.397658,37.762471,"2015-09-29 17:47:27"
+9,HcMcgnnEWD,Jersey,1,jersey-san-francisco,CA,"San Francisco",94105,US,0.0000,0.0000,0.0000,0,-122.39898707718,37.787520720597,"2015-09-29 17:47:27"
+10,wwLa1WuZho,"Gialina Pizzeria",1,gialina-pizzeria-san-francisco,CA,"San Francisco",94131,US,0.0000,0.0000,0.0000,0,-122.43405528367,37.734033241868,"2015-09-29 17:47:27"
+13,F6tn2FshkJ,"Test BD",4,,Dhaka,Dhaka,1229,Bangladesh,0.0000,0.0000,0.0000,1,0,0,"2015-09-29 18:41:10"
